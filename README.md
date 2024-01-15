@@ -4,7 +4,7 @@ Collection of projects completed during my DevOps course
 Hi All,
 
 I started my DevOps course a few months ago and wanted to showcase the projects I completed over the course.
-It will take me a few more months to finish, and I will keep you updated on what I've learned thus far.
+It will take me a few more months to finish, and I will keep you updated on what I've learned so far.
 
 In the course, I already learned:
 
