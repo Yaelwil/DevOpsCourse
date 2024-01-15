@@ -14,14 +14,14 @@ The second instance, named private, was coupled with the second subnet's interna
 In the Security Groups section, I allowed communication to and from ports 22 (bastion_connect.sh and key_rotation.sh), 8080 (tls_handshake.sh).
 
 In the first assignment, I needed to write a script that could connect to the first instance, the second instance, or the internal instance and execute a command.
-You can find it in 'bastion_connect.sh'.
+The script can be found in 'bastion_connect.sh'.
 
 In the second assignment, I had to write a script that can rotate keys (for security reasons) while still allowing you to connect using 'bastion_connect.sh'.
-You can find it in 'key_rotation.sh'.
+The script can be found in 'key_rotation.sh'.
 
 In the third assignment, I created a script to manually implement a TLS handshake to validate the validity of a site before accessing in. The script can be found in 'tls_handshake.sh'.
 
-# Tools tthat I used-
+# Tools that I used-
 ## Operating Systems:
 -	Linux (Ubuntu): File System Management, Permissions, Processes, Services.
 ## Programming Languages:
