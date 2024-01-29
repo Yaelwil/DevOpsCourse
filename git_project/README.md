@@ -15,4 +15,4 @@ In the fourth assignment, I had to merge two repositories into one while saving 
 The script can be found in 'merge_repos.sh'.
 
 ## Version Control:
--	Git.
+-	Git, GitHub.
