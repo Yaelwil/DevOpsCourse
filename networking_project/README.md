@@ -21,7 +21,6 @@ The script can be found in 'key_rotation.sh'.
 
 In the third assignment, I created a script to manually implement a TLS handshake to validate the validity of a site before accessing in. The script can be found in 'tls_handshake.sh'.
 
-# Tools that I used-
 ## Operating Systems:
 -	Linux (Ubuntu): File System Management, Permissions, Processes, Services.
 ## Programming Languages:
