@@ -31,3 +31,7 @@ In the course, I already learned:
 
 ## Virtualization
 - VMware
+- Virtual Box
+  
+## Automation and Configuration Management:
+- Ansible
