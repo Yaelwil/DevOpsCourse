@@ -12,7 +12,8 @@ In the course, I already learned:
 - Linux (Ubuntu): File System Management, Permissions, Processes, Services
 
 ## Programming Languages
-- Bash Scripting: Environment Variables, Conditional Statements
+- Bash Scripting
+- Python
 
 ## Version Control
 - Git, GitHub
@@ -20,6 +21,7 @@ In the course, I already learned:
 ## Cloud
 - AWS: VPC, EC2, Security Groups
 - Nginx, WSGI
+- Docker containers, images, networks, volumes, compose.
 
 ## Networking
 - OSI Model, Protocols, HTTP, DNS
@@ -35,3 +37,5 @@ In the course, I already learned:
   
 ## Automation and Configuration Management:
 - Ansible
+- YAML
+- JSON
