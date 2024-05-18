@@ -15,21 +15,25 @@ In the course, I already learned:
 ## Programming Languages
 - Bash Scripting-
   - Bash and other shells & Bash commands techniques, Bash variables, Bash conditional statements & Bash loops brief.
+    
 - Python Scripting-
   - Intro to Python, Control Flow, Data Structures, I/O, Error handling, Classes (Object Oriented Programming, Modules.
 
 ## Version Control
 - Git-
   - Git basics, Git branches, Git remotes, Git workflows.
+    
 - GitHub-
   - Actions, Pull requests, Variables & Secrets, Branch protection & rules, SSH keys.
 
 ## Cloud
 - AWS-
   - Intro to AWS, EC2 and EBS, S3, IAM, VPC, ELB and ASG, Lambda, DynamoDB, RDS.
+    
 - Nginx, WSGI.
 - Containers-
   - containers, images, networks, volumes, compose.
+    
 - Docker hub.
 
 ## Networking
