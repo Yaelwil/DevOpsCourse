@@ -3,7 +3,8 @@
 In the Python project, I needed to finish the Polybot bot code.  
 I was provided the infrastructure for a Telegram bot and had to write the filter algorithm.  
 The Telegram bot receives messages and photographs, and responds accordingly.   
-It accepts color photographs and returns black and white photos.
+It accepts color photographs and returns black and white photos.  
+We used Ngrok to make the tunnel to the app.
 
 In the project, I decided to implement the following filters:
 
