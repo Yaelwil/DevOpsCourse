@@ -18,15 +18,40 @@ Files Worked On:
 - detect_filters.py (added to project): Developed to handle the prediction function.
 - filters.py: Developed to manage filter selection based on user photo captions.
 - img_proc.py: Primarily edited to implement filter logic.
-- requirements.txt: Specifies project dependencies.
 - responses.json: Houses potential response sentences for user input.
 - responses.py: Imports response data into the project.
+- requirements.txt: Specifies project dependencies.
 
 # YOLOv5 Container
 
 Finally, I deployed a YOLOv5 container to enable object detection. The prediction code was sourced from a GitHub repository
 
 Files Worked On:
+- Dockerfile: Created to encapsulate the container's requirements.
+- app.py: Partially edited the code, 
+- requirements.txt: Specifies project dependencies.
 
-# --Need to finish--
-# Need to add detect_filters.py file
+## Operating Systems
+-	Linux (Ubuntu).
+
+## Programming Languages
+- Python Scripting.
+
+## Version Control
+- GitHub.
+
+## Cloud
+- AWS.
+
+## Web Servers
+- Nginx.
+
+## Containers
+- Docker hub.
+
+##  Automation and Configuration Management:
+- YAML.
+- JSON.
+
+## Continuous Integration Continuous Development:
+- Introduction to CI/CD.
