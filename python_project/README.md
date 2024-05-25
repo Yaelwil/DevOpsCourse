@@ -6,6 +6,8 @@ The Telegram bot receives messages and photographs, and responds accordingly.
 It accepts color photographs and returns black and white photos.  
 We used Ngrok to make the tunnel to the app.
 
+![img.png](img.png)
+
 In the project, I decided to implement the following filters:
 
 - Blur 
@@ -31,8 +33,6 @@ Contains project-specific requirements.
 Contains possible sentences to utilize when the user sends specific words.
 - responses.py:  
 Imports a JSON file into the project.
-
-
 
 ## Operating Systems
 - Linux (Ubuntu)

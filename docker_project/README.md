@@ -1,7 +1,14 @@
 # Docker Project
 
 
-In this project, I utilized containers to deploy the Python application alongside additional functionalities, storing the data received in a MongoDB database.
+In this project, I took the python project I did and expend it.  
+I utilized containers to deploy the Python application alongside additional functionalities, storing the data received in a MongoDB database.
+
+![img_1.png](img_1.png)
+
+## Ngrok Tunnel
+
+I used Ngrok to expose a local server to the internet securely through a secure tunnel. 
 
 ## MongoDB Initialization
 
@@ -24,7 +31,7 @@ Files Worked On:
 
 # YOLOv5 Container
 
-Finally, I deployed a YOLOv5 container to enable object detection. The prediction code was sourced from a GitHub repository
+Finally, I deployed a YOLOv5 container to enable object detection. The prediction code sourced from a GitHub repository
 
 Files Worked On:
 - Dockerfile: Created to encapsulate the container's requirements.
