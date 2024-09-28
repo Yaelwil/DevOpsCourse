@@ -1,57 +1,87 @@
 # DevOpsCourse
-Collection of projects completed during my DevOps course
 
-Hi All,
-
-I started my DevOps course a few months ago and wanted to showcase the projects I completed over the course.
-It will take me a few more months to finish, and I will keep you updated on what I've learned so far.
-
-In the course, I already learned:
+Throughout my DevOps course, I have completed several hands-on projects that allowed me to apply the concepts and tools I learned.  
+These projects span across key areas such as cloud computing, automation, containerization, CI/CD pipelines, and infrastructure as code.  
+Below is a summary of the subjects / projects I've worked on and the skills I've developed along the way.
 
 ## Operating Systems
-- Linux (Ubuntu)-
-  - Linux storage layout, Linux File Management, IO redirection, Processes, Environment variables & Package Management.
-  
+- Linux (Ubuntu)-  
+ Linux storage layout, Linux File Management, IO redirection, Processes, Environment variables & Package Management.
+
 ## Programming Languages
-- Bash Scripting-
-  - Bash and other shells & Bash commands techniques, Bash variables, Bash conditional statements & Bash loops brief.
-    
-- Python Scripting-
-  - Intro to Python, Control Flow, Data Structures, I/O, Error handling, Classes (Object Oriented Programming, Modules.
+- Bash Scripting-  
+Bash and other shells, Bash command techniques, Bash variables, Bash conditional statements & loops.
+- Python Scripting-  
+Intro to Python, Control Flow, Data Structures, I/O, Error handling, Classes (Object-Oriented Programming), Modules.
 
 ## Version Control
-- Git-
-  - Git basics, Git branches, Git remotes, Git workflows.
-    
-- GitHub-
-  - Actions, Pull requests, Variables & Secrets, Branch protection & rules, SSH keys.
+- Git-  
+Git basics, branches, remotes, and workflows.
+- GitHub-  
+Actions, Pull requests, Variables & Secrets, Branch protection & rules, SSH keys.
 
 ## Cloud
-- AWS-
-  - Intro to AWS, EC2 and EBS, S3, IAM, VPC, ELB and ASG, Lambda, DynamoDB, RDS.
-    
-- Nginx, WSGI.
-- Containers-
-  - containers, images, networks, volumes, compose.
-    
-- Docker hub.
+- AWS-  
+Intro to AWS, EC2, EBS, S3, IAM, VPC, ELB, ASG, Lambda, DynamoDB, RDS, EKS.
+
+##  Containers
+- Docker-  
+Containers, images, networks, volumes, Docker Compose, Docker Hub.
+
+##  Infrastructure as Code
+- Terraform-  
+Infrastructure automation, managing cloud resources with Terraform.
+
+## Orchestration and Kubernetes (K8S)
+- Kubernetes-  
+Kubernetes setup, managing clusters, deploying applications in K8s.
+- Helm-  
+Kubernetes package management using Helm.
+- ArgoCD-  
+GitOps, automating Kubernetes deployments.
+
+## CI/CD
+- Jenkins-  
+Jenkins setup and introduction to build and deploy pipelines.
+- Nexus-
+Nexus Artifacts Repository.
+
+## Observability
+- Elasticsearch and Kibana-  
+Log management and data visualization using the ELK stack.
 
 ## Networking
-- Wireshark, Nmap-
-  - The OSI Model & Linux Sockets, Computer Networks, HTTP Protocol & DNS protocol, Networks Security, SSH protocol.
+- Wireshark, Nmap-  
+The OSI Model, Linux Sockets, Computer Networks, HTTP Protocol, DNS protocol, Network Security, SSH protocol.
 
 ## Security
-- OpenSSL, Encryption, Cryptography.
-- Networking Security, DNS Security.
-
+- OpenSSL, Encryption, Cryptography
+- Network Security, DNS Security.
+- 
 ## Virtualization
-- VMware.
-- Virtual Box.
-  
-## Automation and Configuration Management:
-- Ansible.
-- YAML.
-- JSON.
+- VMware, VirtualBox-  
+Hands-on virtualization.
 
-## Continuous Integration Continuous Development Pipeline:
-Introduction to CI/CD.
+## Automation and Configuration Management
+- Ansible
+- Automating infrastructure using-   
+  - Ansible.
+  - YAML.
+  - JSON.
+
+## Continuous Integration / Continuous Deployment Pipeline
+- Introduction to CI/CD-  
+End-to-end CI/CD concepts and implementation.
+
+
+## Projects
+- Python project link-  
+https://github.com/Yaelwil/ImageProcessingService
+
+- Docker project link-  
+https://github.com/Yaelwil/DockerProject
+
+- AWS + Terraform project link-  
+https://github.com/Yaelwil/INTPolybotServiceAWS
+
+
