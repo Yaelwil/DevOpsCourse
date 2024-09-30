@@ -1,5 +1,0 @@
-flask
-pyyaml
-loguru
-pymongo
-boto3
