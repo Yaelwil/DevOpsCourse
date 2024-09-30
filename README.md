@@ -57,7 +57,7 @@ The OSI Model, Linux Sockets, Computer Networks, HTTP Protocol, DNS protocol, Ne
 ## Security
 - OpenSSL, Encryption, Cryptography
 - Network Security, DNS Security.
-- 
+  
 ## Virtualization
 - VMware, VirtualBox-  
 Hands-on virtualization.
