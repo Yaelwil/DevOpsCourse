@@ -84,5 +84,5 @@ https://github.com/Yaelwil/DockerProject
 - AWS + Terraform project link-  
 https://github.com/Yaelwil/INTPolybotServiceAWS
 
-- Kubernetes project link-
+- Kubernetes project link-  
 https://github.com/Yaelwil/PolybotInfra
